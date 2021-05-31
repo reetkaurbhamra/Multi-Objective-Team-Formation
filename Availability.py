@@ -30,8 +30,6 @@ def avg_dic(x:dict):
         val += values[i]
     return val/len(x)
 
-'''def possible_teams():
-    if a'''
     
 person_1 = [0,0,1,1,1,1,1,0,0,1,0,1,0,1,1]
 person_2 = [0,1,0,1,1,0,1,1,1,0,1,0,1,0,0]
